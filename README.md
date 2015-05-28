@@ -1,5 +1,14 @@
-This is a Read Me Document.
+<h2>Shell Name Here!</h2>
 
-Contributors:
-Damien Robinson A00336676
-Matthew Smith   A00354612
+<h3>Authors</h3>
+Damien Robinson<br>
+Matthew Smith<br>
+Dhuha Al-Amiri<br>
+Srushti Bhayani
+
+<h3>Features</h3>
+Piping<br>
+History<br>
+Tab completion<br>
+Redirection
+
